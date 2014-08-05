@@ -13,7 +13,7 @@ Although the google translate tts api is public, but it will reject the request 
 
 So, this script using a trick to use the api without using a backend service.
 
-~~The requirement is:~~
+**The requirement is:**
 
 * a google Chrome browser (which can play audio directly)
 
