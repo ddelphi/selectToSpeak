@@ -1,0 +1,1 @@
+javascript: (function() {var list = ["https://github.com/ddelphi/selectToSpeak/raw/master/selectToSpeak.js"];for (var i = 0; i < list.length; i++) {var script = document.createElement("script");script.setAttribute("src", list[i]);document.body.appendChild(script);}})()
